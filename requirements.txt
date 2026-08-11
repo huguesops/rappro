@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+supabase
+psycopg2-binary
+SQLAlchemy
+openpyxl
+pytest
